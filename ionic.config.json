@@ -1,0 +1,7 @@
+{
+  "name": "booklandia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
