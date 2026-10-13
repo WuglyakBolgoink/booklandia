@@ -1,6 +1,6 @@
 {
   "name": "booklandia",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "OpenSource Capacitor App for Children 'digi-home' Book Library",
   "type": "module",
   "keywords": [
@@ -13,13 +13,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@capacitor/core": "latest",
-    "@capacitor/camera": "latest",
-    "@capacitor/splash-screen": "latest"
+    "@capacitor/core": "8.5.3",
+    "@capacitor/camera": "8.2.5",
+    "@capacitor/splash-screen": "8.0.2"
   },
   "devDependencies": {
-    "@capacitor/cli": "latest",
-    "vite": "^7.3.1"
+    "@capacitor/cli": "8.5.3",
+    "vite": "7.3.7"
   },
   "author": "Ali Elderov",
   "license": "ISC",
