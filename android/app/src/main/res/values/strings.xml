@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">booklandia</string>
+    <string name="title_activity_main">booklandia</string>
+    <string name="package_name">de.alielderov.booklandia</string>
+    <string name="custom_url_scheme">de.alielderov.booklandia</string>
+</resources>
