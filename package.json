@@ -55,7 +55,7 @@
     "typescript": "6.0.3",
     "typescript-eslint": "8.71.2",
     "vite": "7.3.7",
-    "vitest": "4.1.11"
+    "vitest": "4.1.12"
   },
   "author": "Ali Elderov",
   "license": "ISC",
